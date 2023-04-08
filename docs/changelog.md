@@ -1,11 +1,14 @@
 # Changelog
 
-## v0.0.1 - Date
+## v0.0.1 - 3/20/2023
 
 **Improvement**:
 
--   TBD
+-   Initial release
+-   Creating the package basic 
+-   deployment pages and publish pypi interface
 
 **New Features**:
 
--   TBD
+-  No features available at this time
+-  Please stay in turn, thank you for your patience 
