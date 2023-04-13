@@ -50,3 +50,15 @@ nav:
     - Report Issues: https://github.com/zyang91/geosmapdemo/issues
     - API Reference:
           - geosmapdemo module: geosmapdemo.md
+    - Python Basic:
+         - python/Classes.ipynb
+         - python/Conditional_statement.ipynb
+         - python/Dictionaries.ipynb
+         - python/files_and_exception_handling.ipynb
+         - python/function.ipynb
+         - python/GEOG510_list.ipynb
+         - python/GEOG510_variabel_type.ipynb
+         - python/user_input_while_loop.ipynb
+         - python/working_with_list.ipynb
+
+
