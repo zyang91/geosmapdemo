@@ -1,6 +1,7 @@
 # Welcome to geosmapdemo
 
 
+[![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![image](https://img.shields.io/pypi/v/geosmapdemo.svg)](https://pypi.python.org/pypi/geosmapdemo)
 
 
