@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/conda/vn/conda-forge/geosmapdemo.svg)](https://anaconda.org/conda-forge/geosmapdemo)
 
 
-**this is a software for interactive mapping. **
+**This is a software for interactive mapping and spatial analysis (Artificial Intellgence)**
 
 
 -   Free software: MIT license
