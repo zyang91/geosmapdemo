@@ -14,5 +14,7 @@
 
 ## Features
 
--   TODO
+-   Geography mapping
+-  Spatial analysis
+-  Converted Lidar data to VR analysis
 
