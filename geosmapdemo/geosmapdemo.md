@@ -1,0 +1,4 @@
+ 
+# geosmapdemo module
+
+::: geosmapdemo.geosmapdemo
